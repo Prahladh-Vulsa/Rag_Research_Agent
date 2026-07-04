@@ -114,7 +114,6 @@ RAG-Research-Agent/
 ├── RAG_Research_Agent.ipynb
 ├── README.md
 ├── requirements.txt
-├── .gitignore
 └── LICENSE
 ```
 
@@ -188,7 +187,7 @@ This project is licensed under the **MIT License**.
 
 ## 👨‍💻 Author
 
-**Prahla**
+**Prahladh-Vulsa**
 
 ---
 
