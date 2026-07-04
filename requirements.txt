@@ -1,0 +1,14 @@
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-google-genai
+langchain-huggingface
+langchain-chroma
+langchain-tavily
+chromadb
+sentence-transformers
+google-generativeai
+pypdf
+tavily-python
+python-dotenv
