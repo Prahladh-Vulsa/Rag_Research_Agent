@@ -114,7 +114,6 @@ RAG-Research-Agent/
 ├── RAG_Research_Agent.ipynb
 ├── README.md
 ├── requirements.txt
-└── LICENSE
 ```
 
 ---
@@ -176,12 +175,6 @@ The agent will:
 - 🔀 Hybrid Retrieval (BM25 + Vector Search)
 - 📖 Source citations
 - 🤖 Support for multiple LLM providers
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
 
 ---
 
